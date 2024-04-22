@@ -69,7 +69,7 @@ to start this project you do a `npm run dev`
 
 ### conclusion 
 
-this project is hosted in `'vercel.com'` and click [here](https://altschool-gitapi.vercel.app/)
+this project is hosted in `'vercel.com'` to check the project click [here](https://altschool-gitapi.vercel.app/)
 
 
 
