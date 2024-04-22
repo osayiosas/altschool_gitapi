@@ -8,7 +8,7 @@
 - Recommended modules
 - Installation
 - Configuration
-- Troubleshooting
+- conclusion
 
 ### Requirements 
 
@@ -61,6 +61,15 @@ This selection is from a [``package.json``](command:_github.copilot.openRelative
 
 `"web-vitals": "^3.5.2"` is a library for measuring the performance of a web page. It provides a number of metrics that can be used to understand the user experience on the page.
 
+
+### Configuration 
+
+to start this project you do a `npm run dev` 
+
+
+### conclusion 
+
+this project is hosted in `'vercel.com'` and click [here](https://altschool-gitapi.vercel.app/)
 
 
 
